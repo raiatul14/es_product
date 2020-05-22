@@ -1,0 +1,7 @@
+django_es/settings.py
+django_es/models.py
+product_es/migrations/
+django_es/__pycache__/
+product_es/__pycache__/
+product_es/management/commands/__pycache__/
+product_es/models.py
